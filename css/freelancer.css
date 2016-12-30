@@ -503,3 +503,9 @@ fieldset[disabled] .btn-success.active {
   opacity: 0;
   display: none;
 }
+
+
+li p {
+  text-align: left;
+
+}
